@@ -1,0 +1,15 @@
+[ 2016-10-13T11:02:31+08:00 ]EXCEPTION: SELECT * FROM dream_goods     ORDER BY rand  ASC  LIMIT 5  ;BindParams:array (
+)42S22;1054;Unknown column 'rand' in 'order clause'
+[ 2016-10-13T11:02:45+08:00 ]EXCEPTION: SELECT * FROM dream_goods     ORDER BY random  ASC  LIMIT 5  ;BindParams:array (
+)42S22;1054;Unknown column 'random' in 'order clause'
+[ 2016-10-13T12:12:34+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T12:13:02+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T12:13:03+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T12:13:04+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T12:13:04+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T12:13:05+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T12:13:05+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T12:13:06+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T12:13:06+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T12:13:07+08:00 ]EXCEPTION: web\admin\controller\Listpage 不存在
+[ 2016-10-13T13:33:11+08:00 ]EXCEPTION: web\home\controller\Index 不存在

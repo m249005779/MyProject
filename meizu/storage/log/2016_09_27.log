@@ -1,0 +1,11 @@
+[ 2016-09-27T11:31:34+08:00 ]EXCEPTION: SELECT * FROM dream_type     ORDER BY desc  ASC  LIMIT 0,5  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc  ASC  LIMIT 0,5' at line 1
+[ 2016-09-27T15:19:26+08:00 ]EXCEPTION: Method web\home\controller\Entry::__empty() does not exist
+[ 2016-09-27T15:19:45+08:00 ]EXCEPTION: Method web\home\controller\Entry::__empty() does not exist
+[ 2016-09-27T15:54:08+08:00 ]EXCEPTION: Method web\admin\controller\Type::__empty() does not exist
+[ 2016-09-27T16:34:45+08:00 ]EXCEPTION: show columns from dream_tag ;BindParams:array (
+)42S02;1146;Table 'meizu.dream_tag' doesn't exist
+[ 2016-09-27T16:55:47+08:00 ]EXCEPTION: web\admin\controller\Tag 不存在
+[ 2016-09-27T16:56:43+08:00 ]EXCEPTION: Method web\admin\controller\Typeattr::__empty() does not exist
+[ 2016-09-27T17:00:29+08:00 ]EXCEPTION: Method web\admin\controller\Typeattr::__empty() does not exist
+[ 2016-09-27T17:00:38+08:00 ]EXCEPTION: Method web\admin\controller\Typeattr::__empty() does not exist

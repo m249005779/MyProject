@@ -1,0 +1,12 @@
+[ 2016-10-07T12:09:32+08:00 ]EXCEPTION: INSERT INTO dream_goods_attr (`gtvalue`,`added`,`taid`,`gid`) VALUES(?,?,?,?) ;BindParams:array (
+  1 => '16GB',
+  2 => NULL,
+  3 => 2,
+  4 => '3',
+)23000;1048;Column 'added' cannot be null
+[ 2016-10-07T12:09:34+08:00 ]EXCEPTION: INSERT INTO dream_goods_attr (`gtvalue`,`added`,`taid`,`gid`) VALUES(?,?,?,?) ;BindParams:array (
+  1 => '16GB',
+  2 => NULL,
+  3 => 2,
+  4 => '3',
+)23000;1048;Column 'added' cannot be null

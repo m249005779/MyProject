@@ -1,0 +1,616 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: "微软雅黑";
+  font-size: 14px;
+  color: #555555;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #428bca;
+}
+body {
+  background: #f6f6f6;
+}
+header {
+  width: 100%;
+  background: white;
+  border-color: rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+header .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  position: relative;
+  padding-top: 50px;
+}
+@media only screen and (max-width: 1200px) {
+  header .container {
+    width: 95%;
+  }
+}
+@media only screen and (max-width: 640px) {
+  header .container {
+    padding: 0;
+    min-height: 32px;
+    text-align: center;
+    line-height: 32px;
+  }
+}
+header .container h1 {
+  display: block;
+  overflow: hidden;
+  width: 137px;
+  float: left;
+  font-size: 36px;
+}
+@media only screen and (max-width: 680px) {
+  header .container h1 {
+    width: 80px;
+    clear: both;
+    margin: 0;
+  }
+}
+@media only screen and (max-width: 640px) {
+  header .container h1 {
+    display: block;
+    margin-left: 40%;
+  }
+}
+header .container h1 img {
+  width: 100%;
+  height: 100%;
+}
+header .container .brand {
+  font-size: 14px;
+  float: left;
+  line-height: 16px;
+  color: #BBBBBB;
+  position: relative;
+  top: 3px;
+  border-left: 2px solid #eaeaea;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+@media only screen and (max-width: 850px) {
+  header .container .brand {
+    display: none;
+  }
+}
+header .container .site {
+  float: right;
+  margin-top: 7px;
+  margin-right: -15px;
+}
+@media only screen and (max-width: 640px) {
+  header .container .site {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  header .container .site .nav {
+    display: none;
+  }
+}
+header .container .site li {
+  float: left;
+  position: relative;
+  display: list-item;
+  text-align: -webkit-match-parent;
+  font-size: 18px;
+}
+header .container .site li a {
+  font-size: 18px;
+  padding: 0 15px;
+  display: block;
+}
+header .container .site .first a {
+  color: #45B6F7;
+}
+header .container .site .front a i {
+  display: inline-block;
+  width: 14px;
+  text-align: center;
+  font-size: 18px;
+}
+header .container .site .search a i {
+  display: inline-block;
+  width: 18px;
+  font-size: 18px;
+  font-weight: 700;
+}
+header .container .topbar {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  right: 0;
+  margin-bottom: 20px;
+  margin-right: -15px;
+}
+@media only screen and (max-width: 640px) {
+  header .container .topbar {
+    display: none;
+  }
+}
+header .container .topbar .topmenu {
+  float: right;
+}
+header .container .topbar .topmenu li {
+  float: left;
+}
+header .container .topbar .topmenu li a {
+  display: block;
+  padding: 0 15px;
+  color: #999;
+}
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+}
+@media only screen and (max-width: 1200px) {
+  main {
+    width: 95%;
+  }
+}
+main article {
+  width: 100%;
+  position: relative;
+  box-sizing: border-box;
+}
+main article .content {
+  position: relative;
+  float: left;
+  min-height: 500px;
+  margin-right: 380px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+@media only screen and (max-width: 1025px) {
+  main article .content {
+    width: 100%;
+  }
+}
+main article .content .home {
+  margin-bottom: 15px;
+  position: relative;
+}
+main article .content .home .lb {
+  width: 100%;
+  overflow: hidden;
+  z-index: 10;
+}
+main article .content .home .lb li {
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+main article .content .home .lb li a {
+  display: block;
+  height: 100%;
+}
+main article .content .home .lb li a img {
+  height: 100%;
+  width: 100%;
+  border-radius: 1%;
+}
+main article .content .home .circel {
+  position: absolute;
+  left: 50%;
+  bottom: 6px;
+  width: 60%;
+  margin-left: -30%;
+  z-index: 11;
+  text-align: center;
+}
+main article .content .home .circel li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+main article .content .first {
+  border-radius: 4px 4px 0 0;
+}
+main article .content .excerpt {
+  border: 1px solid #eaeaea;
+  padding: 20px;
+  overflow: hidden;
+  background: white;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+main article .content .excerpt h2 {
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 15px;
+  margin-top: 0;
+  font-weight: bold;
+}
+main article .content .excerpt h2 a {
+  font-size: 18px;
+  line-height: 24px;
+}
+main article .content .excerpt h2 .red {
+  margin-left: -8px;
+  color: #ff5e52;
+}
+main article .content .excerpt p {
+  color: #666666;
+  margin-bottom: 0;
+  text-indent: 28px;
+  margin: 0 0 10px;
+  font-size: 14px;
+  display: block;
+}
+main article .content .title {
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+main article .content .title h3 {
+  font-size: 20px;
+  float: left;
+  font-weight: 500;
+  line-height: 1.1;
+}
+main article .content .excer:hover {
+  border: 1px solid #45BCF9;
+  z-index: 2;
+  background: #FAFDFF;
+}
+main article .content .excer:hover header {
+  background: #FAFDFF;
+}
+main article .content .excer {
+  border: 1px solid #EAEAEA;
+  padding: 20px 20px 20px 255px;
+  overflow: hidden;
+  background-color: #fff;
+  margin-bottom: -1px;
+  position: relative;
+}
+@media only screen and (max-width: 640px) {
+  main article .content .excer {
+    padding: 10px 10px 10px 185px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  main article .content .excer {
+    padding: 10px 10px 10px 125px;
+  }
+}
+main article .content .excer .focus {
+  display: block;
+  float: left;
+  margin-left: -235px;
+  width: 220px;
+}
+@media only screen and (max-width: 640px) {
+  main article .content .excer .focus {
+    width: 160px;
+    margin-left: -175px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  main article .content .excer .focus {
+    width: 100px;
+    margin-left: -115px;
+  }
+}
+main article .content .excer .focus img {
+  width: 220px;
+  height: 150px;
+}
+@media only screen and (max-width: 640px) {
+  main article .content .excer .focus img {
+    width: 160px;
+    height: 109px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  main article .content .excer .focus img {
+    width: 100px;
+    height: 68px;
+  }
+}
+main article .content .excer header {
+  margin-bottom: 10px;
+}
+main article .content .excer header .cat {
+  color: #fff;
+  background-color: #45BCF9;
+  padding: 3px 6px;
+  font-size: 12px;
+  display: inline-block;
+  position: relative;
+  top: -2px;
+  margin-right: 6px;
+}
+@media only screen and (max-width: 640px) {
+  main article .content .excer header .cat {
+    display: none;
+  }
+}
+main article .content .excer header h2 {
+  display: inline;
+  font-size: 18px;
+  line-height: 24px;
+  margin-top: 0;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+main article .content .excer header h2 a {
+  font-size: 18px;
+  line-height: 24px;
+}
+@media only screen and (max-width: 640px) {
+  main article .content .excer header h2 a {
+    font-size: 16px;
+    line-height: 18px;
+  }
+}
+main article .content .excer .meta {
+  color: #999;
+  font-size: 12px;
+  margin-bottom: 10px;
+  margin: 0 0 10px;
+}
+main article .content .excer .meta time {
+  color: #999;
+  font-size: 12px;
+  margin-right: 20px;
+}
+main article .content .excer .meta span {
+  color: #999;
+  font-size: 12px;
+  margin-right: 20px;
+}
+main article .content .excer .note {
+  font-size: 12px;
+  color: #999;
+  word-wrap: break-word;
+  line-height: 20px;
+  margin: 0 0 10px;
+  display: block;
+}
+@media only screen and (max-width: 640px) {
+  main article .content .excer .note {
+    display: none;
+  }
+}
+main article .content .last {
+  margin-bottom: 0px;
+  border-radius: 0 0 4px 4px;
+}
+main article .content .page {
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  font-size: 12px;
+  overflow: hidden;
+}
+main article .content .page ul {
+  display: inline-block;
+  margin-left: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+main article .content .page ul li {
+  display: inline;
+  text-align: center;
+}
+main article .content .page ul li span {
+  display: block;
+  margin: 0 2px;
+  float: left;
+  padding: 5px 12px;
+  border-radius: 2px;
+  background: #ddd;
+  font-size: 12px;
+}
+main article .content .page ul li .active {
+  background-color: #73bbe8;
+}
+main article .content .page ul li .hide {
+  background-color: #F6F6F6;
+  color: #AAAAAA;
+  font-size: 12px;
+}
+main article .aside {
+  float: left;
+  width: 360px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  overflow: hidden;
+}
+@media only screen and (max-width: 1025px) {
+  main article .aside {
+    display: none;
+  }
+}
+main article .aside .widget {
+  position: relative;
+  margin-bottom: 15px;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid #eaeaea;
+  overflow: hidden;
+}
+main article .aside .widget a {
+  display: block;
+  padding: 0 15px 15px;
+  border: 1px solid #eaeaea;
+  background-color: #fff;
+  font-size: 12px;
+  border-radius: 4px;
+}
+main article .aside .widget a strong {
+  background-color: #FF5E52;
+  margin: -1px 0 0 0;
+  display: inline-block;
+  padding: 4px 15px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: normal;
+}
+main article .aside .widget a .blue {
+  background-color: #428BCA;
+}
+main article .aside .widget a h2 {
+  font-size: 20px;
+  margin-top: 14px;
+  margin-bottom: 10px;
+  display: block;
+  font-weight: normal;
+  color: #FF5E52;
+}
+main article .aside .widget a .qun {
+  color: #428BCA;
+}
+main article .aside .widget a p {
+  color: #999;
+  margin: 0 0 10px;
+  font-size: 12px;
+}
+main article .aside .widget .img {
+  display: inline-block;
+  padding: 0;
+  border: 1px solid #eaeaea;
+  margin: 10px 0px 15px 10px;
+}
+main article .aside .widget .img img {
+  width: 160px;
+  height: 130px;
+}
+main article .aside .widget h3 {
+  font-size: 18px;
+  color: #666;
+  border-bottom: 1px solid #eaeaea;
+  background-color: #fbfbfb;
+  margin: 0;
+  padding: 11px 15px 10px;
+}
+main article .aside .widget .ebox {
+  overflow: hidden;
+  font-size: 12px;
+  text-align: center;
+  background-color: #fff;
+}
+main article .aside .widget .ebox .eboxi {
+  position: relative;
+  float: left;
+  width: 50%;
+  padding: 15px 15px 20px;
+  background-color: #fff;
+  color: #777;
+  border-bottom: 1px dashed #ddd;
+  border-right: 1px dashed #ddd;
+}
+main article .aside .widget .ebox .eboxi h4 {
+  display: block;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+main article .aside .widget .ebox .eboxi p {
+  font-size: 12px;
+  height: 36px;
+  overflow: hidden;
+  color: #bbb;
+  margin: 0 0 10px;
+}
+main article .aside .widget .ebox .eboxi a {
+  border-color: #ddd;
+  color: #666;
+  border-radius: 2px;
+  padding: 5px 0;
+  text-align: center;
+}
+main article .aside .widget .ebox .c2 {
+  border-right: 1px solid #ddd;
+}
+main article .aside .widget .ebox .c1 {
+  width: 100%;
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+main article .aside .item {
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 15px;
+}
+main article .aside .item a {
+  display: block;
+}
+main article .aside .item a img {
+  width: 100%;
+  height: 100%;
+}
+.brandd {
+  background: #444;
+  text-align: center;
+  padding: 70px 20px;
+}
+.brandd .cont {
+  position: relative;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0;
+  text-align: center;
+}
+.brandd .cont h2 {
+  color: #ccc;
+  margin: 0 0 20px;
+  font-size: 33px;
+  font-weight: 500;
+}
+@media only screen and (max-width: 640px) {
+  .brandd .cont h2 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+}
+.brandd .cont a {
+  border: 1px solid #ccc;
+  color: #ccc;
+  font-size: 20px;
+  border-radius: 4px;
+  padding: 10px 25px;
+}
+footer {
+  position: relative;
+  z-index: 9;
+  clear: both;
+  padding: 40px 30px;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+  color: #999;
+  background-color: #fff;
+  border-top: 1px solid #eaeaea;
+}
+footer p {
+  margin: 0 0 10px;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+  color: #999;
+}
+footer a {
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+}
+/*# sourceMappingURL=index.css.map */

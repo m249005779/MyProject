@@ -1,0 +1,55 @@
+[ 2016-09-10T20:17:40+08:00 ]EXCEPTION: web\admin\controller\Tag 不存在
+[ 2016-09-10T20:31:01+08:00 ]EXCEPTION: web\admin\controller\Tag 不存在
+[ 2016-09-10T20:31:03+08:00 ]Error: Non-static method hdphp\view\View::make() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (23).
+[ 2016-09-10T20:41:55+08:00 ]Error: Non-static method hdphp\view\View::make() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (22).
+[ 2016-09-10T20:41:56+08:00 ]Error: Non-static method hdphp\view\View::make() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (22).
+[ 2016-09-10T20:41:56+08:00 ]Error: Non-static method hdphp\view\View::make() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (22).
+[ 2016-09-10T20:42:10+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:05:52+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:05:53+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:05:53+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:05:54+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:05:55+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:05:55+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:05:56+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:06:05+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:10:23+08:00 ]Error: Non-static method hdphp\data\Data::tree() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (34).
+[ 2016-09-10T22:10:24+08:00 ]Error: Non-static method hdphp\data\Data::tree() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (34).
+[ 2016-09-10T22:10:25+08:00 ]Error: Non-static method hdphp\data\Data::tree() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (34).
+[ 2016-09-10T22:10:32+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:12:09+08:00 ]Error: Non-static method hdphp\data\Data::tree() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (34).
+[ 2016-09-10T22:12:09+08:00 ]Error: Non-static method hdphp\data\Data::channelList() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\hdphp\data\Data.php (115).
+[ 2016-09-10T22:12:10+08:00 ]Error: Non-static method hdphp\data\Data::tree() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (34).
+[ 2016-09-10T22:12:10+08:00 ]Error: Non-static method hdphp\data\Data::channelList() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\hdphp\data\Data.php (115).
+[ 2016-09-10T22:12:10+08:00 ]Error: Non-static method hdphp\data\Data::tree() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Article.php (34).
+[ 2016-09-10T22:12:10+08:00 ]Error: Non-static method hdphp\data\Data::channelList() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\hdphp\data\Data.php (115).
+[ 2016-09-10T22:12:52+08:00 ]EXCEPTION: Method web\home\controller\Entry::__empty() does not exist
+[ 2016-09-10T22:13:17+08:00 ]EXCEPTION: web\admin\controller\Tag 不存在
+[ 2016-09-10T22:15:00+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:15:02+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:15:31+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:15:32+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:16:03+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:16:04+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:17:07+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:18:30+08:00 ]EXCEPTION: web\admin\controller\Tag 不存在
+[ 2016-09-10T22:18:31+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:32:19+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:37:40+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:37:41+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:38:30+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:38:31+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:39:04+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:41:09+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:41:10+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:41:12+08:00 ]Error: Non-static method hdphp\view\View::with() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Tag.php (25).
+[ 2016-09-10T22:41:31+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:49:27+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T22:50:09+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T23:02:03+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T23:02:05+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T23:05:23+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T23:06:09+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T23:11:16+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T23:11:17+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-10T23:28:26+08:00 ]Error: Non-static method hdphp\view\View::make() should not be called statically, assuming $this from incompatible contextD:\software\wamp\www\hdphp\web\admin\controller\Tag.php (28).

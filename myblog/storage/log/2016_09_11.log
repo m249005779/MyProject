@@ -1,0 +1,25 @@
+[ 2016-09-11T01:16:57+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (27).
+[ 2016-09-11T01:16:58+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (27).
+[ 2016-09-11T01:17:08+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:17:10+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:17:11+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:17:12+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:17:13+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:18:20+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:18:24+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:18:25+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:21:08+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:21:09+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:21:10+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:21:11+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:21:12+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:21:20+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:21:21+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:23:49+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T01:23:50+08:00 ]Error: Invalid argument supplied for foreach()D:\software\wamp\www\hdphp\web\admin\controller\Webset.php (26).
+[ 2016-09-11T02:16:28+08:00 ]EXCEPTION: Method web\admin\controller\Link::__empty() does not exist
+[ 2016-09-11T02:25:10+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-11T02:48:05+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-11T03:25:50+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).
+[ 2016-09-11T03:25:51+08:00 ]EXCEPTION: Method web\admin\controller\Article::__empty() does not exist
+[ 2016-09-11T03:25:53+08:00 ]Error: file_get_contents(config.json): failed to open stream: No such file or directoryD:\software\wamp\www\hdphp\web\system\controller\Component.php (72).

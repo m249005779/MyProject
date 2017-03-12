@@ -1,0 +1,12 @@
+[ 2016-10-10T12:35:37+08:00 ]EXCEPTION: SELECT * FROM dream_goods_attr goods_attr INNER JOIN dream_type_attr type_attr ON goods_attr.taid = type_attr.taid WHERE gid = ? AND class = ? GROUP BY gtavalue    ;BindParams:array (
+  1 => 10,
+  2 => 2,
+)42S22;1054;Unknown column 'gtavalue' in 'group statement'
+[ 2016-10-10T12:35:38+08:00 ]EXCEPTION: SELECT * FROM dream_goods_attr goods_attr INNER JOIN dream_type_attr type_attr ON goods_attr.taid = type_attr.taid WHERE gid = ? AND class = ? GROUP BY gtavalue    ;BindParams:array (
+  1 => 10,
+  2 => 2,
+)42S22;1054;Unknown column 'gtavalue' in 'group statement'
+[ 2016-10-10T12:35:49+08:00 ]EXCEPTION: SELECT * FROM dream_goods_attr goods_attr INNER JOIN dream_type_attr type_attr ON goods_attr.taid = type_attr.taid WHERE gid = ? AND class = ? GROUP BY tamame    ;BindParams:array (
+  1 => 10,
+  2 => 2,
+)42S22;1054;Unknown column 'tamame' in 'group statement'

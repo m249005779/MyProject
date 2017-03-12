@@ -1,0 +1,17 @@
+[ 2016-10-12T12:37:12+08:00 ]EXCEPTION: Method web\home\controller\Login::__empty() does not exist
+[ 2016-10-12T13:46:43+08:00 ]EXCEPTION: web\home\controller\Index 不存在
+[ 2016-10-12T13:47:17+08:00 ]EXCEPTION: web\home\controller\Index 不存在
+[ 2016-10-12T14:01:19+08:00 ]EXCEPTION: Method hdphp\log\LogFacade::__empty() does not exist
+[ 2016-10-12T20:43:51+08:00 ]EXCEPTION: SELECT  FROM dream_goods  WHERE cid = ?     ;BindParams:array (
+  1 => '2',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM dream_goods  WHERE cid = '2'' at line 1
+[ 2016-10-12T21:22:23+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-12T21:22:24+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-12T21:22:33+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-12T21:58:45+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-12T21:59:11+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-12T21:59:11+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-12T21:59:11+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-12T21:59:12+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-12T21:59:12+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-12T21:59:12+08:00 ]EXCEPTION: whereIn 参数错误

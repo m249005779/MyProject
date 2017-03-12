@@ -1,0 +1,9 @@
+[ 2016-09-28T17:21:15+08:00 ]EXCEPTION: 模板不存在:./web/admin/view/
+[ 2016-09-28T21:40:22+08:00 ]EXCEPTION: 模板不存在:./web/admin/view/
+[ 2016-09-28T22:27:00+08:00 ]EXCEPTION: INSERT INTO dream_brand (`bname`,`sort`,`ishot`,`logo`,`bid`) VALUES(?,?,?,?,?) ;BindParams:array (
+  1 => '铁三角',
+  2 => '2',
+  3 => '1',
+  4 => 'attachment/2016/09/28/35061475071555.jpg',
+  5 => '1',
+)23000;1062;Duplicate entry '1' for key 'PRIMARY'

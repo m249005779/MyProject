@@ -1,0 +1,12 @@
+[ 2016-10-21T14:10:06+08:00 ]EXCEPTION: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[ 2016-10-21T14:11:04+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:03+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:05+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:06+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:07+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:08+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:08+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:08+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:08+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:08+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'
+[ 2016-10-21T14:12:12+08:00 ]EXCEPTION: SQLSTATE[HY000] [1044] Access denied for user 'c70_menglingyue'@'%' to database 'meizu'

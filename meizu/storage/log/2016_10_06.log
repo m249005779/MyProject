@@ -1,0 +1,108 @@
+[ 2016-10-06T14:30:02+08:00 ]EXCEPTION: INSERT INTO dream_goods (`gname`,`cid`,`bid`,`gnumber`,`unit`,`marketprice`,`shopprice`,`pic`,`click`,`time`,`aid`) VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  1 => '123',
+  2 => '7',
+  3 => '1',
+  4 => '123',
+  5 => '部',
+  6 => '2499',
+  7 => '1999',
+  8 => 'attachment/2016/10/06/42241475735377.jpg',
+  9 => '9999',
+  10 => 1475735402,
+  11 => NULL,
+)23000;1048;Column 'aid' cannot be null
+[ 2016-10-06T14:30:04+08:00 ]EXCEPTION: INSERT INTO dream_goods (`gname`,`cid`,`bid`,`gnumber`,`unit`,`marketprice`,`shopprice`,`pic`,`click`,`time`,`aid`) VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  1 => '123',
+  2 => '7',
+  3 => '1',
+  4 => '123',
+  5 => '部',
+  6 => '2499',
+  7 => '1999',
+  8 => 'attachment/2016/10/06/42241475735377.jpg',
+  9 => '9999',
+  10 => 1475735404,
+  11 => NULL,
+)23000;1048;Column 'aid' cannot be null
+[ 2016-10-06T14:30:16+08:00 ]EXCEPTION: INSERT INTO dream_goods (`gname`,`cid`,`bid`,`gnumber`,`unit`,`marketprice`,`shopprice`,`pic`,`click`,`time`,`aid`) VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  1 => '123',
+  2 => '7',
+  3 => '1',
+  4 => '123',
+  5 => '部',
+  6 => '2499',
+  7 => '1999',
+  8 => 'attachment/2016/10/06/42241475735377.jpg',
+  9 => '9999',
+  10 => 1475735416,
+  11 => NULL,
+)23000;1048;Column 'aid' cannot be null
+[ 2016-10-06T14:32:23+08:00 ]EXCEPTION: INSERT INTO dream_goods (`gname`,`cid`,`bid`,`gnumber`,`unit`,`marketprice`,`shopprice`,`pic`,`click`,`time`,`aid`) VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  1 => '123',
+  2 => '7',
+  3 => '1',
+  4 => '123',
+  5 => '部',
+  6 => '2499',
+  7 => '1999',
+  8 => 'attachment/2016/10/06/42241475735377.jpg',
+  9 => '9999',
+  10 => 1475735543,
+  11 => NULL,
+)23000;1048;Column 'aid' cannot be null
+[ 2016-10-06T14:39:09+08:00 ]EXCEPTION: INSERT INTO dream_goods (`gname`,`cid`,`bid`,`gnumber`,`unit`,`marketprice`,`shopprice`,`pic`,`click`,`time`,`aid`) VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  1 => '123',
+  2 => '7',
+  3 => '1',
+  4 => '11',
+  5 => '见',
+  6 => '888',
+  7 => '999',
+  8 => 'attachment/2016/10/06/37181475735923.jpg',
+  9 => '555',
+  10 => 1475735949,
+  11 => NULL,
+)23000;1048;Column 'aid' cannot be null
+[ 2016-10-06T14:43:41+08:00 ]EXCEPTION: INSERT INTO dream_goods (`gname`,`cid`,`bid`,`gnumber`,`unit`,`marketprice`,`shopprice`,`pic`,`click`,`time`,`aid`) VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  1 => '123',
+  2 => '7',
+  3 => '1',
+  4 => '11',
+  5 => '见',
+  6 => '888',
+  7 => '999',
+  8 => 'attachment/2016/10/06/37181475735923.jpg',
+  9 => '555',
+  10 => 1475736221,
+  11 => NULL,
+)23000;1048;Column 'aid' cannot be null
+[ 2016-10-06T14:45:51+08:00 ]EXCEPTION: INSERT INTO dream_goods (`gname`,`cid`,`bid`,`gnumber`,`unit`,`marketprice`,`shopprice`,`pic`,`click`,`time`,`aid`) VALUES(?,?,?,?,?,?,?,?,?,?,?) ;BindParams:array (
+  1 => '222',
+  2 => '7',
+  3 => '1',
+  4 => '78',
+  5 => '1',
+  6 => '1999',
+  7 => '2499',
+  8 => 'attachment/2016/10/06/58511475736322.jpg',
+  9 => '8888',
+  10 => 1475736351,
+  11 => NULL,
+)23000;1048;Column 'aid' cannot be null
+[ 2016-10-06T16:29:35+08:00 ]EXCEPTION: Method web\admin\controller\Goods::__empty() does not exist
+[ 2016-10-06T16:29:52+08:00 ]EXCEPTION: web\home\controller\Admin 不存在
+[ 2016-10-06T20:37:23+08:00 ]EXCEPTION: SELECT * FROM dream_goods_attr goods_attr INNER JOIN dream_type_attr type_attr ON taid = taid WHERE gid = ?     ;BindParams:array (
+  1 => 1,
+)23000;1052;Column 'taid' in on clause is ambiguous
+[ 2016-10-06T20:39:06+08:00 ]EXCEPTION: SELECT * FROM dream_goods_attr goods_attr INNER JOIN dream_type_attr type_attr ON taid   WHERE gid = ?     ;BindParams:array (
+  1 => 1,
+)23000;1052;Column 'taid' in on clause is ambiguous
+[ 2016-10-06T20:39:06+08:00 ]EXCEPTION: SELECT * FROM dream_goods_attr goods_attr INNER JOIN dream_type_attr type_attr ON taid   WHERE gid = ?     ;BindParams:array (
+  1 => 1,
+)23000;1052;Column 'taid' in on clause is ambiguous
+[ 2016-10-06T20:39:07+08:00 ]EXCEPTION: SELECT * FROM dream_goods_attr goods_attr INNER JOIN dream_type_attr type_attr ON taid   WHERE gid = ?     ;BindParams:array (
+  1 => 1,
+)23000;1052;Column 'taid' in on clause is ambiguous
+[ 2016-10-06T20:39:07+08:00 ]EXCEPTION: SELECT * FROM dream_goods_attr goods_attr INNER JOIN dream_type_attr type_attr ON taid   WHERE gid = ?     ;BindParams:array (
+  1 => 1,
+)23000;1052;Column 'taid' in on clause is ambiguous

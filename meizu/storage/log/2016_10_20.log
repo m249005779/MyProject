@@ -1,0 +1,11 @@
+[ 2016-10-20T17:27:17+08:00 ]EXCEPTION: SELECT * FROM dream_order  WHERE oid = ?     ;BindParams:array (
+  1 => '6',
+)42S22;1054;Unknown column 'oid' in 'where clause'
+[ 2016-10-20T17:28:51+08:00 ]EXCEPTION: SELECT * FROM dream_order  WHERE oid = ?     ;BindParams:array (
+  1 => 6,
+)42S22;1054;Unknown column 'oid' in 'where clause'
+[ 2016-10-20T19:23:51+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-20T19:23:52+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-20T19:59:57+08:00 ]EXCEPTION: web\home\controller\Home 不存在
+[ 2016-10-20T20:15:45+08:00 ]EXCEPTION: whereIn 参数错误
+[ 2016-10-20T22:05:46+08:00 ]EXCEPTION: whereIn 参数错误
